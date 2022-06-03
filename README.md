@@ -1,3 +1,6 @@
+# -Last-Updated--Api
+A basic API to Javascript change dates to "last updated"
+
 So basically - I was doing an online Javascript Tutorial, and I got super cross that he hadn't updated in since 2018 and the library he was telling you to use to do this doesn't exist anymore.
 (It was not a free course!)
 There were answers in the student Q+A which pointed to a different library to do exactly this, which was also broken.
@@ -17,8 +20,4 @@ I may spite work on this and make it more precise in the future.
 
 Please, if you make people pay for your courses, update them.  Or else, you are the reason for code like this existing.
 
-Anyway, if you can see a use for this, you are welcome to it.  If you drop me a line to let me know, or a thank you link, alls the better.
-
-
-# -Last-Updated--Api
-A basic API to Javascript change dates to "last updated"
+Anyway, if you can see a use for this, you are welcome to it.  If you drop me a line to let me know, or a thank you link, alls the better.  Or if that's not normally done, then just do whatever, I have no idea. I'm still doing tutorials, as you can see.
