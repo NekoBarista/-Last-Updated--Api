@@ -1,9 +1,17 @@
-let list = []
+let lists = []
+let listId = location.hash.substring(1)
+
+let list = lists.find(function(list){
+  return list.id === listId
+  
+  })
+  
 
 function handleCreateClick() {
 let today = new Date()
   let timestamp = Date.parse(today)
- list.push({
+ lists.push({
+  id: uuidv4(),
    Title: "",
  Body:"",
  Created: timestamp,
