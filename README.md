@@ -1,5 +1,5 @@
 # -Last-Updated--Api
-A basic API to Javascript change dates to "last updated"- to be readable and easily useable by beginners.
+A basic API to Javascript change dates to "last updated  X seconds/minutes/hours/years"- to be readable and easily useable by beginners.
 
 So basically - I was doing an online Javascript Tutorial, and I got super cross that he hadn't updated it since 2018 so the library to do this for you, he was telling you to use to do this doesn't exist anymore.
 <p>
