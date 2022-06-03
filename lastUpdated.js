@@ -74,7 +74,7 @@ else if(timedifference >= 2419200000 && timedifference <= 2937600000) {
     return `Last Updated more than one month ago`
 }
 
-else if(timedifference >= 2,937,600,000 && timedifference <= 7257600000) {
+else if(timedifference >= 2937600000 && timedifference <= 7257600000) {
     return `Last Updated several months ago`
 }
 
